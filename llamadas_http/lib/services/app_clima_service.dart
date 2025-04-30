@@ -1,3 +1,4 @@
+import 'dart:convert';
 import '../models/app_clima_model.dart';
 import 'package:http/http.dart' as http;
 
